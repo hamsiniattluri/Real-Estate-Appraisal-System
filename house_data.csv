@@ -1,0 +1,9 @@
+location,area,bedrooms,bathrooms,price
+Hyderabad,1000,2,2,45
+Hyderabad,1200,2,2,50
+Bangalore,1500,3,2,75
+Bangalore,1800,3,3,90
+Chennai,2000,4,3,85
+Chennai,2200,4,4,100
+Mumbai,2500,5,4,150
+Mumbai,3000,5,5,180
